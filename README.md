@@ -1,2 +1,2 @@
 # PreCursoHenry
-Repositorio de prueba
+Repositorio de prueba para aprender github
